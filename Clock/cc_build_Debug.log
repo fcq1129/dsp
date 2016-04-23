@@ -1,0 +1,45 @@
+-----------------------------  Clock1.pjt - Debug  -----------------------------
+[DSP28_Adc.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Adc.c"
+
+[DSP28_CpuTimers.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_CpuTimers.c"
+
+[DSP28_DefaultIsr.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_DefaultIsr.c"
+
+[DSP28_ECan.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_ECan.c"
+
+[DSP28_Ev.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Ev.c"
+
+[DSP28_GlobalVariableDefs.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_GlobalVariableDefs.c"
+
+[DSP28_Gpio.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Gpio.c"
+
+[DSP28_InitPeripherals.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_InitPeripherals.c"
+
+[DSP28_Mcbsp.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Mcbsp.c"
+
+[DSP28_PieCtrl.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_PieCtrl.c"
+
+[DSP28_PieVect.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_PieVect.c"
+
+[DSP28_Sci.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Sci.c"
+
+[DSP28_Spi.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Spi.c"
+
+[DSP28_SysCtrl.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_SysCtrl.c"
+
+[DSP28_Xintf.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_Xintf.c"
+
+[DSP28_XIntrupt.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "DSP28_XIntrupt.c"
+
+[Lcd.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "Lcd.c"
+
+[main.c] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -g -fr"F:/Program Files/CCS3.3/MyProjects/Clock1/Debug" -d"_DEBUG" -d"LARGE_MODEL" -ml -v28 -@"Debug.lkf" "main.c"
+
+[Linking...] "F:\Program Files\CCS3.3\C2000\cgtools\bin\cl2000" -@"Debug.lkf"
+<Linking>
+>> F:\Program Files\CCS3.3\MyProjects\Clock1\FLASH.cmd, line 82: warning: 
+               (.const) not found
+>> warning: load address of uninitialized section .const ignored
+
+Build Complete,
+  0 Errors, 2 Warnings, 0 Remarks.
