@@ -41,7 +41,7 @@ void InitSysCtrl(void)
    SysCtrlRegs.WDCR= 0x0068;
 
 // 初始化PLL模块
-   SysCtrlRegs.PLLCR = 0xA;  //如果外部晶振为30M，则SYSCLKOUT=30*10/2=150MHz
+   SysCtrlRegs.PLLCR = 0x01;  //如果外部晶振为30M，则SYSCLKOUT=30*1/2=15MHz
 // 延时，使得PLL模块能够完成初始化操作
    for(i= 0; i< 5000; i++){}
        
